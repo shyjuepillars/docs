@@ -17,9 +17,9 @@ Click **Install App**.
 3. Click **Install and Authorize**. 
 <img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">
 4. Choose **Private** or **Shared** as the connection type, then click **Next**.
-<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type">
+<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type"> <br/>
 5. Enter a name for the connection and click **Login**. 
-<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in"> 
+<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in">  <br/>
 7. On the next page, enter the Odoo instance login details and click **Submit**.
 <img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details"> 
 - When prompted to establish a connection, enter your target Odoo server credentials:
