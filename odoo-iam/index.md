@@ -14,13 +14,13 @@ Click **Install App**.
 ### Step 2: Connect Your Odoo Account
 1. Click **Connect Account**. <br>
 <img src="assets/03-connect-account.png" width="500" alt="Connect Account">  <br>
-3. Click **Install and Authorize**. 
+3. Click **Install and Authorize**. <br>
 <img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">  <br>
-4. Choose **Private** or **Shared** as the connection type, then click **Next**.
+4. Choose **Private** or **Shared** as the connection type, then click **Next**.<br>
 <img src="assets/05-connection-type.png" width="500" alt="Choose a connection type">   <br>
-5. Enter a name for the connection and click **Login**. 
+5. Enter a name for the connection and click **Login**. <br>
 <img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in">  <br>
-7. On the next page, enter the Odoo instance login details and click **Submit**.
+7. On the next page, enter the Odoo instance login details and click **Submit**.<br>
 <img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details">   <br>
 - When prompted to establish a connection, enter your target Odoo server credentials:
 - **Odoo Database URL:** Your Odoo instance URL (for example, `https://mycompany.odoo.com`)
@@ -28,7 +28,7 @@ Click **Install App**.
 - **Username:** Your Odoo user account email or username
 - **Password:** Your Odoo user password or API key
   
-### Step 3: Grant User Consent
+### Step 3: Grant User Consent<br>
 <img src="assets/08-oauth-consent.png" width="500" alt="Odoo OAuth consent screen">  <br/>
 - After submitting your login details, review the requested access permissions on the Odoo OAuth Consent Screen and click **Allow Access** to establish the connection.
 ## How to Use the App
