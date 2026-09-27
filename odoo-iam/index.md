@@ -13,15 +13,15 @@ In your DocuSign account, navigate to **App Center** and search for **Odoo** by 
 Click **Install App**.
 ### Step 2: Connect Your Odoo Account
 1. Click **Connect Account**.
-<img src="assets/03-connect-account.png" width="500" alt="Connect Account">
+<img src="assets/03-connect-account.png" width="500" alt="Connect Account">  <br>
 3. Click **Install and Authorize**. 
-<img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">
+<img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">  <br>
 4. Choose **Private** or **Shared** as the connection type, then click **Next**.
-<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type"> <br/>
+<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type">   <br>
 5. Enter a name for the connection and click **Login**. 
-<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in">  <br/>
+<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in">  <br>
 7. On the next page, enter the Odoo instance login details and click **Submit**.
-<img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details"> 
+<img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details">   <br>
 - When prompted to establish a connection, enter your target Odoo server credentials:
 - **Odoo Database URL:** Your Odoo instance URL (for example, `https://mycompany.odoo.com`)
 - **Database Name:** The target Odoo database name (for example, `mycompany`)
@@ -36,20 +36,20 @@ Click **Install App**.
 ### 1. Search and Select Records
 Use the **Read from Odoo** action in DocuSign workflows to query contacts by ID, name, email, or phone number directly from your active Odoo database.
 
-<img src="assets/10-search-records.png" width="500" alt="Search and select Odoo records"> <br/>
+<img src="assets/10-search-records.png" width="500" alt="Search and select Odoo records">   <br>
 
 #### Choose Read from Odoo
-<img src="assets/09-read-from-odoo.png" width="500" alt="Choose Read from Odoo">  <br/>
+<img src="assets/09-read-from-odoo.png" width="500" alt="Choose Read from Odoo">   <br>
 ### 2. Create and Update Records
 Choose the **Writeback to Odoo** step to create or update customer records in Odoo. 
 1. Select the connection. \
-![Select the Odoo connection](assets/11-select-connection.png)
+![Select the Odoo connection](assets/11-select-connection.png)  <br>
 2. Select the fields.
-![Select Odoo fields](assets/12-select-fields.png)
+![Select Odoo fields](assets/12-select-fields.png)  <br>
 3. Map the fields for the corresponding create or update action.
-![Map fields for create or update](assets/13-map-fields.png)
+![Map fields for create or update](assets/13-map-fields.png)  <br>
 4. Create rules that identify the matching or filtering criteria.
-![Configure matching or filtering rules](assets/14-matching-rules.png)
+![Configure matching or filtering rules](assets/14-matching-rules.png)  <br>
 ## Frequently Asked Questions
 ### Do I need an active Odoo subscription?
 - Yes, you need access to an active Odoo instance (Community or Enterprise edition, hosted on Odoo.sh, self-hosted, or Odoo Online) with XML-RPC access enabled.
