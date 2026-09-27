@@ -34,7 +34,8 @@ Click **Install App**.
 ## How to Use the App
 - In the workflow builder, click **Add Step**, then choose **Read from Odoo** or **Writeback to Odoo** based on the workflow requirement.
 ### 1. Search and Select Records
-- Use the **Read from Odoo** action in DocuSign workflows to query contacts by ID, name, email, or phone number directly from your active Odoo database.
+Use the **Read from Odoo** action in DocuSign workflows to query contacts by ID, name, email, or phone number directly from your active Odoo database.
+
 <img src="assets/10-search-records.png" width="500" alt="Search and select Odoo records"> </img>
 
 #### Choose Read from Odoo
