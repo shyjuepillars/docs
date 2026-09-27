@@ -12,16 +12,16 @@ In your DocuSign account, navigate to **App Center** and search for **Odoo** by 
 
 Click **Install App**.
 ### Step 2: Connect Your Odoo Account
-1. Click **Connect Account**. \
-![Connect Account](assets/03-connect-account.png)
-2. Click **Install and Authorize**. \
+1. Click **Connect Account**.
+<img src="assets/03-connect-account.png" width="500" alt="Connect Account">
+3. Click **Install and Authorize**. 
 <img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">
-3. Choose **Private** or **Shared** as the connection type, then click **Next**.
-<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type"> </img>
-5. Enter a name for the connection and click **Login**. \
-<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in"> </img>
+4. Choose **Private** or **Shared** as the connection type, then click **Next**.
+<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type">
+5. Enter a name for the connection and click **Login**. 
+<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in"> 
 7. On the next page, enter the Odoo instance login details and click **Submit**.
-<img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details"> </img>
+<img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details"> 
 - When prompted to establish a connection, enter your target Odoo server credentials:
 - **Odoo Database URL:** Your Odoo instance URL (for example, `https://mycompany.odoo.com`)
 - **Database Name:** The target Odoo database name (for example, `mycompany`)
