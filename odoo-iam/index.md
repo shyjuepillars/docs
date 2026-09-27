@@ -15,7 +15,7 @@ Click **Install App**.
 1. Click **Connect Account**. \
 ![Connect Account](assets/03-connect-account.png)
 2. Click **Install and Authorize**. \
-<img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog"> </img>
+<img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog">
 3. Choose **Private** or **Shared** as the connection type, then click **Next**.
 <img src="assets/05-connection-type.png" width="500" alt="Choose a connection type"> </img>
 5. Enter a name for the connection and click **Login**. \
