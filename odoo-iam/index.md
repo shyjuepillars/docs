@@ -29,17 +29,17 @@ Click **Install App**.
 - **Password:** Your Odoo user password or API key
   
 ### Step 3: Grant User Consent
-<img src="assets/08-oauth-consent.png" width="500" alt="Odoo OAuth consent screen"> </img>
+<img src="assets/08-oauth-consent.png" width="500" alt="Odoo OAuth consent screen">  <br/>
 - After submitting your login details, review the requested access permissions on the Odoo OAuth Consent Screen and click **Allow Access** to establish the connection.
 ## How to Use the App
 - In the workflow builder, click **Add Step**, then choose **Read from Odoo** or **Writeback to Odoo** based on the workflow requirement.
 ### 1. Search and Select Records
 Use the **Read from Odoo** action in DocuSign workflows to query contacts by ID, name, email, or phone number directly from your active Odoo database.
 
-<img src="assets/10-search-records.png" width="500" alt="Search and select Odoo records"> </img>
+<img src="assets/10-search-records.png" width="500" alt="Search and select Odoo records"> <br/>
 
 #### Choose Read from Odoo
-<img src="assets/09-read-from-odoo.png" width="500" alt="Choose Read from Odoo"> </img>
+<img src="assets/09-read-from-odoo.png" width="500" alt="Choose Read from Odoo">  <br/>
 ### 2. Create and Update Records
 Choose the **Writeback to Odoo** step to create or update customer records in Odoo. 
 1. Select the connection. \
