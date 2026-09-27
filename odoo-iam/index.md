@@ -15,13 +15,13 @@ Click **Install App**.
 1. Click **Connect Account**. \
 ![Connect Account](assets/03-connect-account.png)
 2. Click **Install and Authorize**. \
-![Install and Authorize dialog](assets/04-install-and-authorize.png)
+<img src="assets/04-install-and-authorize.png" width="500" alt="Install and Authorize dialog"> </img>
 3. Choose **Private** or **Shared** as the connection type, then click **Next**.
-![Choose a connection type](assets/05-connection-type.png)
-4. Enter a name for the connection and click **Login**. \
-![Name the connection and log in](assets/06-connection-login.png)
-5. On the next page, enter the Odoo instance login details and click **Submit**.
-![Enter Odoo instance login details](assets/07-odoo-login-details.png)
+<img src="assets/05-connection-type.png" width="500" alt="Choose a connection type"> </img>
+5. Enter a name for the connection and click **Login**. \
+<img src="assets/06-connection-login.png" width="500" alt="Name the connection and log in"> </img>
+7. On the next page, enter the Odoo instance login details and click **Submit**.
+<img src="assets/07-odoo-login-details.png" width="500" alt="Enter Odoo instance login details"> </img>
 - When prompted to establish a connection, enter your target Odoo server credentials:
 - **Odoo Database URL:** Your Odoo instance URL (for example, `https://mycompany.odoo.com`)
 - **Database Name:** The target Odoo database name (for example, `mycompany`)
@@ -29,7 +29,7 @@ Click **Install App**.
 - **Password:** Your Odoo user password or API key
   
 ### Step 3: Grant User Consent
-![Odoo OAuth consent screen](assets/08-oauth-consent.png)
+<img src="assets/08-oauth-consent.png" width="500" alt="Odoo OAuth consent screen"> </img>
 - After submitting your login details, review the requested access permissions on the Odoo OAuth Consent Screen and click **Allow Access** to establish the connection.
 ## How to Use the App
 - In the workflow builder, click **Add Step**, then choose **Read from Odoo** or **Writeback to Odoo** based on the workflow requirement.
